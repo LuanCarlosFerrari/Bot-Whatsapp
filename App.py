@@ -11,5 +11,3 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     print(Nome)
     print(E_mail)
     print(Telefone)
-
-#a faiela é uma calculadora
